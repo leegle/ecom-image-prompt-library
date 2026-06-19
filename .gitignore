@@ -1,0 +1,10 @@
+*.zip
+*.rar
+*.7z
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.local
+*.log
+__pycache__/
