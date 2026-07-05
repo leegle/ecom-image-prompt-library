@@ -28,10 +28,10 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Accessories | 手机配件 | screen protector, phone charger, charging cable | `cases/cell-phones-and-accessories/accessories/` |
-| Cases, Holsters & Clips | 手机壳、挂夹与保护套 | magnetic phone case, clear phone case | `cases/cell-phones-and-accessories/cases-holsters-and-clips/` |
-| Cell Phones | 手机 | smartphone, unlocked phone | `cases/cell-phones-and-accessories/cell-phones/` |
-| SIM Cards & Prepaid Minutes | SIM 卡与预付费套餐 | prepaid SIM card, travel SIM card | `cases/cell-phones-and-accessories/sim-cards-and-prepaid-minutes/` |
+| Accessories | 手机配件 | screen protector, phone charger, charging cable | [cases/cell-phones-and-accessories/accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/cell-phones-and-accessories/accessories/) |
+| Cases, Holsters & Clips | 手机壳、挂夹与保护套 | magnetic phone case, clear phone case | [cases/cell-phones-and-accessories/cases-holsters-and-clips/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/cell-phones-and-accessories/cases-holsters-and-clips/) |
+| Cell Phones | 手机 | smartphone, unlocked phone | [cases/cell-phones-and-accessories/cell-phones/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/cell-phones-and-accessories/cell-phones/) |
+| SIM Cards & Prepaid Minutes | SIM 卡与预付费套餐 | prepaid SIM card, travel SIM card | [cases/cell-phones-and-accessories/sim-cards-and-prepaid-minutes/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/cell-phones-and-accessories/sim-cards-and-prepaid-minutes/) |
 
 ## Compliance Notes / 合规注意
 

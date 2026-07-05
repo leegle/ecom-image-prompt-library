@@ -52,18 +52,18 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Car Care | 汽车护理 | car cleaning cloth, interior cleaner, car air freshener | `cases/automotive/car-care/` |
-| Exterior Accessories | 汽车外饰配件 | windshield sunshade, car cover | `cases/automotive/exterior-accessories/` |
-| Interior Accessories | 汽车内饰配件 | car phone mount, seat organizer | `cases/automotive/interior-accessories/` |
-| Light & Lighting Accessories | 车灯与照明配件 | LED car light, headlight bulb | `cases/automotive/light-and-lighting-accessories/` |
-| Motorcycle & ATV | 摩托车与 ATV | motorcycle cover, ATV accessory | `cases/automotive/motorcycle-and-atv/` |
-| Oils & Fluids | 机油与车用液体 | motor oil bottle, windshield washer fluid | `cases/automotive/oils-and-fluids/` |
-| Paint & Paint Supplies | 汽车喷漆与喷漆用品 | touch-up paint pen, spray paint | `cases/automotive/paint-and-paint-supplies/` |
-| Performance Parts & Accessories | 性能零件与配件 | air filter, performance gauge | `cases/automotive/performance-parts-and-accessories/` |
-| RV Parts & Accessories | 房车零件与配件 | RV water hose, RV leveling blocks | `cases/automotive/rv-parts-and-accessories/` |
-| Replacement Parts | 替换零件 | cabin air filter, wiper blade | `cases/automotive/replacement-parts/` |
-| Tools & Equipment | 汽车工具与设备 | tire inflator, diagnostic tool | `cases/automotive/tools-and-equipment/` |
-| Wheels & Tires | 轮胎与轮毂 | tire pressure gauge, wheel cover | `cases/automotive/wheels-and-tires/` |
+| Car Care | 汽车护理 | car cleaning cloth, interior cleaner, car air freshener | [cases/automotive/car-care/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/car-care/) |
+| Exterior Accessories | 汽车外饰配件 | windshield sunshade, car cover | [cases/automotive/exterior-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/exterior-accessories/) |
+| Interior Accessories | 汽车内饰配件 | car phone mount, seat organizer | [cases/automotive/interior-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/interior-accessories/) |
+| Light & Lighting Accessories | 车灯与照明配件 | LED car light, headlight bulb | [cases/automotive/light-and-lighting-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/light-and-lighting-accessories/) |
+| Motorcycle & ATV | 摩托车与 ATV | motorcycle cover, ATV accessory | [cases/automotive/motorcycle-and-atv/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/motorcycle-and-atv/) |
+| Oils & Fluids | 机油与车用液体 | motor oil bottle, windshield washer fluid | [cases/automotive/oils-and-fluids/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/oils-and-fluids/) |
+| Paint & Paint Supplies | 汽车喷漆与喷漆用品 | touch-up paint pen, spray paint | [cases/automotive/paint-and-paint-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/paint-and-paint-supplies/) |
+| Performance Parts & Accessories | 性能零件与配件 | air filter, performance gauge | [cases/automotive/performance-parts-and-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/performance-parts-and-accessories/) |
+| RV Parts & Accessories | 房车零件与配件 | RV water hose, RV leveling blocks | [cases/automotive/rv-parts-and-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/rv-parts-and-accessories/) |
+| Replacement Parts | 替换零件 | cabin air filter, wiper blade | [cases/automotive/replacement-parts/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/replacement-parts/) |
+| Tools & Equipment | 汽车工具与设备 | tire inflator, diagnostic tool | [cases/automotive/tools-and-equipment/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/tools-and-equipment/) |
+| Wheels & Tires | 轮胎与轮毂 | tire pressure gauge, wheel cover | [cases/automotive/wheels-and-tires/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/automotive/wheels-and-tires/) |
 
 ## Compliance Notes / 合规注意
 

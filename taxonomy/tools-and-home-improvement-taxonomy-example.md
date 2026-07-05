@@ -45,16 +45,16 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Building Supplies | 建筑材料 | weather stripping, wall repair patch | `cases/tools-and-home-improvement/building-supplies/` |
-| Electrical | 电工电气 | wire connector, extension cord | `cases/tools-and-home-improvement/electrical/` |
-| Hardware | 五金 | wall hooks, screws assortment | `cases/tools-and-home-improvement/hardware/` |
-| Kitchen & Bath Fixtures | 厨卫五金 | shower head, faucet accessory | `cases/tools-and-home-improvement/kitchen-and-bath-fixtures/` |
-| Lighting & Ceiling Fans | 照明与吊扇 | LED light strip, desk lamp | `cases/tools-and-home-improvement/lighting-and-ceiling-fans/` |
-| Measuring & Layout Tools | 测量与布局工具 | measuring tape, laser level | `cases/tools-and-home-improvement/measuring-and-layout-tools/` |
-| Paint, Wall Treatments & Supplies | 油漆墙面与用品 | paint roller, masking tape | `cases/tools-and-home-improvement/paint-wall-treatments-and-supplies/` |
-| Power & Hand Tools | 电动与手动工具 | cordless drill, screwdriver set | `cases/tools-and-home-improvement/power-and-hand-tools/` |
-| Safety & Security | 安全与安防 | door lock, safety glasses | `cases/tools-and-home-improvement/safety-and-security/` |
-| Storage & Home Organization | 收纳与家居整理 | tool organizer, storage hooks | `cases/tools-and-home-improvement/storage-and-home-organization/` |
+| Building Supplies | 建筑材料 | weather stripping, wall repair patch | [cases/tools-and-home-improvement/building-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/building-supplies/) |
+| Electrical | 电工电气 | wire connector, extension cord | [cases/tools-and-home-improvement/electrical/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/electrical/) |
+| Hardware | 五金 | wall hooks, screws assortment | [cases/tools-and-home-improvement/hardware/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/hardware/) |
+| Kitchen & Bath Fixtures | 厨卫五金 | shower head, faucet accessory | [cases/tools-and-home-improvement/kitchen-and-bath-fixtures/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/kitchen-and-bath-fixtures/) |
+| Lighting & Ceiling Fans | 照明与吊扇 | LED light strip, desk lamp | [cases/tools-and-home-improvement/lighting-and-ceiling-fans/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/lighting-and-ceiling-fans/) |
+| Measuring & Layout Tools | 测量与布局工具 | measuring tape, laser level | [cases/tools-and-home-improvement/measuring-and-layout-tools/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/measuring-and-layout-tools/) |
+| Paint, Wall Treatments & Supplies | 油漆墙面与用品 | paint roller, masking tape | [cases/tools-and-home-improvement/paint-wall-treatments-and-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/paint-wall-treatments-and-supplies/) |
+| Power & Hand Tools | 电动与手动工具 | cordless drill, screwdriver set | [cases/tools-and-home-improvement/power-and-hand-tools/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/power-and-hand-tools/) |
+| Safety & Security | 安全与安防 | door lock, safety glasses | [cases/tools-and-home-improvement/safety-and-security/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/safety-and-security/) |
+| Storage & Home Organization | 收纳与家居整理 | tool organizer, storage hooks | [cases/tools-and-home-improvement/storage-and-home-organization/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/tools-and-home-improvement/storage-and-home-organization/) |
 
 ## Compliance Notes / 合规注意
 

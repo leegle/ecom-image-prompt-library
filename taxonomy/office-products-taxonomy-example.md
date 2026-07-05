@@ -38,13 +38,13 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Education & Crafts | 教育与手工 | permanent markers, acrylic paint markers, file folders | `cases/office-products/education-and-crafts/` |
-| Envelopes, Mailers & Shipping Supplies | 信封、邮寄袋与运输用品 | mailer envelopes, shipping labels, packing tape | `cases/office-products/envelopes-mailers-and-shipping-supplies/` |
-| Office Electronics | 办公电子 | printer ink cartridge, label maker | `cases/office-products/office-electronics/` |
-| Office Furniture & Accessories | 办公家具与配件 | desk organizer, monitor stand | `cases/office-products/office-furniture-and-accessories/` |
-| Office Lighting | 办公照明 | desk lamp, LED task light | `cases/office-products/office-lighting/` |
-| Office Supplies | 办公耗材 | copy paper, writing notepad | `cases/office-products/office-supplies/` |
-| Presentation Boards | 展示板 | poster board, presentation board | `cases/office-products/presentation-boards/` |
+| Education & Crafts | 教育与手工 | permanent markers, acrylic paint markers, file folders | [cases/office-products/education-and-crafts/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/office-products/education-and-crafts/) |
+| Envelopes, Mailers & Shipping Supplies | 信封、邮寄袋与运输用品 | mailer envelopes, shipping labels, packing tape | [cases/office-products/envelopes-mailers-and-shipping-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/office-products/envelopes-mailers-and-shipping-supplies/) |
+| Office Electronics | 办公电子 | printer ink cartridge, label maker | [cases/office-products/office-electronics/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/office-products/office-electronics/) |
+| Office Furniture & Accessories | 办公家具与配件 | desk organizer, monitor stand | [cases/office-products/office-furniture-and-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/office-products/office-furniture-and-accessories/) |
+| Office Lighting | 办公照明 | desk lamp, LED task light | [cases/office-products/office-lighting/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/office-products/office-lighting/) |
+| Office Supplies | 办公耗材 | copy paper, writing notepad | [cases/office-products/office-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/office-products/office-supplies/) |
+| Presentation Boards | 展示板 | poster board, presentation board | [cases/office-products/presentation-boards/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/office-products/presentation-boards/) |
 
 ## Compliance Notes / 合规注意
 

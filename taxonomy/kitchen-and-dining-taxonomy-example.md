@@ -48,17 +48,17 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Bakeware | 烘焙器具 | baking pan set, silicone baking mat | `cases/kitchen-and-dining/bakeware/` |
-| Bar Tools & Drinkware | 酒吧工具与饮具 | insulated tumbler, cocktail shaker | `cases/kitchen-and-dining/bar-tools-and-drinkware/` |
-| Coffee, Tea & Espresso Appliances | 咖啡茶饮与浓缩设备 | coffee maker concept, tea kettle | `cases/kitchen-and-dining/coffee-tea-and-espresso-appliances/` |
-| Cookware | 炊具 | frying pan concept, pot set | `cases/kitchen-and-dining/cookware/` |
-| Dining & Entertaining | 餐桌与宴客用品 | serving tray concept, plates set | `cases/kitchen-and-dining/dining-and-entertaining/` |
-| Glassware & Drinkware | 玻璃器皿与饮具 | water bottle, travel mug | `cases/kitchen-and-dining/glassware-and-drinkware/` |
-| Kitchen & Table Linens | 厨房与餐桌布艺 | dish cloths pack, oven mitts | `cases/kitchen-and-dining/kitchen-and-table-linens/` |
-| Kitchen Utensils & Gadgets | 厨房用具与小工具 | meat thermometer, kitchen scale | `cases/kitchen-and-dining/kitchen-utensils-and-gadgets/` |
-| Small Appliances | 小家电 | toaster, personal blender | `cases/kitchen-and-dining/small-appliances/` |
-| Storage & Organization | 收纳整理 | food storage containers, spice organizer | `cases/kitchen-and-dining/storage-and-organization/` |
-| Wine Accessories | 葡萄酒配件 | wine opener, aerator concept | `cases/kitchen-and-dining/wine-accessories/` |
+| Bakeware | 烘焙器具 | baking pan set, silicone baking mat | [cases/kitchen-and-dining/bakeware/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/bakeware/) |
+| Bar Tools & Drinkware | 酒吧工具与饮具 | insulated tumbler, cocktail shaker | [cases/kitchen-and-dining/bar-tools-and-drinkware/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/bar-tools-and-drinkware/) |
+| Coffee, Tea & Espresso Appliances | 咖啡茶饮与浓缩设备 | coffee maker concept, tea kettle | [cases/kitchen-and-dining/coffee-tea-and-espresso-appliances/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/coffee-tea-and-espresso-appliances/) |
+| Cookware | 炊具 | frying pan concept, pot set | [cases/kitchen-and-dining/cookware/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/cookware/) |
+| Dining & Entertaining | 餐桌与宴客用品 | serving tray concept, plates set | [cases/kitchen-and-dining/dining-and-entertaining/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/dining-and-entertaining/) |
+| Glassware & Drinkware | 玻璃器皿与饮具 | water bottle, travel mug | [cases/kitchen-and-dining/glassware-and-drinkware/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/glassware-and-drinkware/) |
+| Kitchen & Table Linens | 厨房与餐桌布艺 | dish cloths pack, oven mitts | [cases/kitchen-and-dining/kitchen-and-table-linens/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/kitchen-and-table-linens/) |
+| Kitchen Utensils & Gadgets | 厨房用具与小工具 | meat thermometer, kitchen scale | [cases/kitchen-and-dining/kitchen-utensils-and-gadgets/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/kitchen-utensils-and-gadgets/) |
+| Small Appliances | 小家电 | toaster, personal blender | [cases/kitchen-and-dining/small-appliances/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/small-appliances/) |
+| Storage & Organization | 收纳整理 | food storage containers, spice organizer | [cases/kitchen-and-dining/storage-and-organization/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/storage-and-organization/) |
+| Wine Accessories | 葡萄酒配件 | wine opener, aerator concept | [cases/kitchen-and-dining/wine-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/kitchen-and-dining/wine-accessories/) |
 
 ## Compliance Notes / 合规注意
 

@@ -63,20 +63,20 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Beading & Jewelry Making | 串珠与首饰制作 | beads, rhinestones, jewelry glue | `cases/arts-crafts-and-sewing/beading-and-jewelry-making/` |
-| Craft Supplies | 手工材料 | craft glue, glue sticks, craft tape | `cases/arts-crafts-and-sewing/craft-supplies/` |
-| Fabric | 布料 | cotton fabric, felt sheets, fabric bundles | `cases/arts-crafts-and-sewing/fabric/` |
-| Fabric Painting & Dyeing | 布料绘画与染色 | fabric paint, fabric markers, tie dye kit | `cases/arts-crafts-and-sewing/fabric-painting-and-dyeing/` |
-| Knitting & Crochet | 针织与钩针 | crochet hooks, knitting needles, knitting kits | `cases/arts-crafts-and-sewing/knitting-and-crochet/` |
-| Needlework | 刺绣与针线手工 | embroidery kit, cross stitch kit | `cases/arts-crafts-and-sewing/needlework/` |
-| Organization & Storage | 手工收纳与整理 | craft storage box, bead organizer | `cases/arts-crafts-and-sewing/organization-and-storage/` |
-| Painting, Drawing & Art Supplies | 绘画、素描与美术用品 | acrylic paint markers, acrylic paint set, paint brushes | `cases/arts-crafts-and-sewing/painting-drawing-and-art-supplies/` |
-| Photo Transfer & Coloring Supplies | 照片转印与涂色用品 | coloring markers, transfer paper | `cases/arts-crafts-and-sewing/photo-transfer-and-coloring-supplies/` |
-| Printmaking | 版画与印刷手工 | linocut tools, printing ink | `cases/arts-crafts-and-sewing/printmaking/` |
-| Scrapbooking | 剪贴簿手工 | scrapbook tape runner, paper embellishments | `cases/arts-crafts-and-sewing/scrapbooking/` |
-| Sewing | 缝纫用品 | sewing scissors, sewing kit | `cases/arts-crafts-and-sewing/sewing/` |
-| Thread & Floss | 线与绣线 | embroidery floss, sewing thread | `cases/arts-crafts-and-sewing/thread-and-floss/` |
-| Yarn | 毛线 | acrylic yarn, cotton yarn | `cases/arts-crafts-and-sewing/yarn/` |
+| Beading & Jewelry Making | 串珠与首饰制作 | beads, rhinestones, jewelry glue | [cases/arts-crafts-and-sewing/beading-and-jewelry-making/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/beading-and-jewelry-making/) |
+| Craft Supplies | 手工材料 | craft glue, glue sticks, craft tape | [cases/arts-crafts-and-sewing/craft-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/craft-supplies/) |
+| Fabric | 布料 | cotton fabric, felt sheets, fabric bundles | [cases/arts-crafts-and-sewing/fabric/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/fabric/) |
+| Fabric Painting & Dyeing | 布料绘画与染色 | fabric paint, fabric markers, tie dye kit | [cases/arts-crafts-and-sewing/fabric-painting-and-dyeing/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/fabric-painting-and-dyeing/) |
+| Knitting & Crochet | 针织与钩针 | crochet hooks, knitting needles, knitting kits | [cases/arts-crafts-and-sewing/knitting-and-crochet/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/knitting-and-crochet/) |
+| Needlework | 刺绣与针线手工 | embroidery kit, cross stitch kit | [cases/arts-crafts-and-sewing/needlework/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/needlework/) |
+| Organization & Storage | 手工收纳与整理 | craft storage box, bead organizer | [cases/arts-crafts-and-sewing/organization-and-storage/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/organization-and-storage/) |
+| Painting, Drawing & Art Supplies | 绘画、素描与美术用品 | acrylic paint markers, acrylic paint set, paint brushes | [cases/arts-crafts-and-sewing/painting-drawing-and-art-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/painting-drawing-and-art-supplies/) |
+| Photo Transfer & Coloring Supplies | 照片转印与涂色用品 | coloring markers, transfer paper | [cases/arts-crafts-and-sewing/photo-transfer-and-coloring-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/photo-transfer-and-coloring-supplies/) |
+| Printmaking | 版画与印刷手工 | linocut tools, printing ink | [cases/arts-crafts-and-sewing/printmaking/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/printmaking/) |
+| Scrapbooking | 剪贴簿手工 | scrapbook tape runner, paper embellishments | [cases/arts-crafts-and-sewing/scrapbooking/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/scrapbooking/) |
+| Sewing | 缝纫用品 | sewing scissors, sewing kit | [cases/arts-crafts-and-sewing/sewing/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/sewing/) |
+| Thread & Floss | 线与绣线 | embroidery floss, sewing thread | [cases/arts-crafts-and-sewing/thread-and-floss/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/thread-and-floss/) |
+| Yarn | 毛线 | acrylic yarn, cotton yarn | [cases/arts-crafts-and-sewing/yarn/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/arts-crafts-and-sewing/yarn/) |
 
 ## Compliance Notes / 合规注意
 

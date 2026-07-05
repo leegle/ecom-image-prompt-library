@@ -56,19 +56,19 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Backyard Birding & Wildlife | 后院观鸟与野生动物用品 | bat house, bird feeder, insect hotel | `cases/patio-lawn-and-garden/backyard-birding-and-wildlife/` |
-| Farm & Ranch | 农场与牧场 | farm gate accessory, ranch tool | `cases/patio-lawn-and-garden/farm-and-ranch/` |
-| Gardening | 园艺 | garden seeds, plant food, garden sprayer | `cases/patio-lawn-and-garden/gardening/` |
-| Generators & Portable Power | 发电机与便携电源 | portable generator, solar power station | `cases/patio-lawn-and-garden/generators-and-portable-power/` |
-| Grills & Outdoor Cooking | 烤炉与户外烹饪 | grill tool set, meat thermometer | `cases/patio-lawn-and-garden/grills-and-outdoor-cooking/` |
-| Mowers & Outdoor Power Tools | 割草机与户外电动工具 | leaf blower, lawn mower accessory | `cases/patio-lawn-and-garden/mowers-and-outdoor-power-tools/` |
-| Outdoor Décor | 户外装饰 | garden lights, decorative planter | `cases/patio-lawn-and-garden/outdoor-d-cor/` |
-| Outdoor Heating | 户外取暖 | patio heater, fire pit cover | `cases/patio-lawn-and-garden/outdoor-heating/` |
-| Outdoor Storage | 户外收纳 | deck storage box, garden hose reel | `cases/patio-lawn-and-garden/outdoor-storage/` |
-| Patio Furniture & Accessories | 庭院家具与配件 | patio chair cover, outdoor cushion | `cases/patio-lawn-and-garden/patio-furniture-and-accessories/` |
-| Pest Control | 害虫控制 | fly trap, mosquito dunks | `cases/patio-lawn-and-garden/pest-control/` |
-| Pools, Hot Tubs & Supplies | 泳池、热水浴缸与用品 | pool shock, pool test strips | `cases/patio-lawn-and-garden/pools-hot-tubs-and-supplies/` |
-| Snow Removal | 除雪用品 | snow shovel, ice melt spreader | `cases/patio-lawn-and-garden/snow-removal/` |
+| Backyard Birding & Wildlife | 后院观鸟与野生动物用品 | bat house, bird feeder, insect hotel | [cases/patio-lawn-and-garden/backyard-birding-and-wildlife/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/backyard-birding-and-wildlife/) |
+| Farm & Ranch | 农场与牧场 | farm gate accessory, ranch tool | [cases/patio-lawn-and-garden/farm-and-ranch/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/farm-and-ranch/) |
+| Gardening | 园艺 | garden seeds, plant food, garden sprayer | [cases/patio-lawn-and-garden/gardening/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/gardening/) |
+| Generators & Portable Power | 发电机与便携电源 | portable generator, solar power station | [cases/patio-lawn-and-garden/generators-and-portable-power/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/generators-and-portable-power/) |
+| Grills & Outdoor Cooking | 烤炉与户外烹饪 | grill tool set, meat thermometer | [cases/patio-lawn-and-garden/grills-and-outdoor-cooking/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/grills-and-outdoor-cooking/) |
+| Mowers & Outdoor Power Tools | 割草机与户外电动工具 | leaf blower, lawn mower accessory | [cases/patio-lawn-and-garden/mowers-and-outdoor-power-tools/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/mowers-and-outdoor-power-tools/) |
+| Outdoor Décor | 户外装饰 | garden lights, decorative planter | [cases/patio-lawn-and-garden/outdoor-d-cor/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/outdoor-d-cor/) |
+| Outdoor Heating | 户外取暖 | patio heater, fire pit cover | [cases/patio-lawn-and-garden/outdoor-heating/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/outdoor-heating/) |
+| Outdoor Storage | 户外收纳 | deck storage box, garden hose reel | [cases/patio-lawn-and-garden/outdoor-storage/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/outdoor-storage/) |
+| Patio Furniture & Accessories | 庭院家具与配件 | patio chair cover, outdoor cushion | [cases/patio-lawn-and-garden/patio-furniture-and-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/patio-furniture-and-accessories/) |
+| Pest Control | 害虫控制 | fly trap, mosquito dunks | [cases/patio-lawn-and-garden/pest-control/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/pest-control/) |
+| Pools, Hot Tubs & Supplies | 泳池、热水浴缸与用品 | pool shock, pool test strips | [cases/patio-lawn-and-garden/pools-hot-tubs-and-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/pools-hot-tubs-and-supplies/) |
+| Snow Removal | 除雪用品 | snow shovel, ice melt spreader | [cases/patio-lawn-and-garden/snow-removal/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/snow-removal/) |
 
 ## Compliance Notes / 合规注意
 

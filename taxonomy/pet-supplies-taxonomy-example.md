@@ -33,11 +33,11 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Cats | 猫用品 | cat toy, cat water fountain, cat grooming brush | `cases/pet-supplies/cats/` |
-| Dogs | 狗用品 | dog leash, dog harness, dog grooming brush | `cases/pet-supplies/dogs/` |
-| Fish & Aquatic Pets | 鱼与水族宠物 | aquarium filter, fish food, aquarium decoration | `cases/pet-supplies/fish-and-aquatic-pets/` |
-| Birds | 鸟用品 | bird feeder, bird cage accessory | `cases/pet-supplies/birds/` |
-| Small Animals | 小宠用品 | hamster toy, small animal bedding | `cases/pet-supplies/small-animals/` |
+| Cats | 猫用品 | cat toy, cat water fountain, cat grooming brush | [cases/pet-supplies/cats/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/pet-supplies/cats/) |
+| Dogs | 狗用品 | dog leash, dog harness, dog grooming brush | [cases/pet-supplies/dogs/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/pet-supplies/dogs/) |
+| Fish & Aquatic Pets | 鱼与水族宠物 | aquarium filter, fish food, aquarium decoration | [cases/pet-supplies/fish-and-aquatic-pets/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/pet-supplies/fish-and-aquatic-pets/) |
+| Birds | 鸟用品 | bird feeder, bird cage accessory | [cases/pet-supplies/birds/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/pet-supplies/birds/) |
+| Small Animals | 小宠用品 | hamster toy, small animal bedding | [cases/pet-supplies/small-animals/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/pet-supplies/small-animals/) |
 
 ## Compliance Notes / 合规注意
 

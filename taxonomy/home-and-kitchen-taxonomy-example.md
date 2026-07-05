@@ -45,16 +45,16 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Bath | 浴室用品 | bath mat, shower curtain liner | `cases/home-and-kitchen/bath/` |
-| Bedding | 床品 | sheet set, pillow cover set | `cases/home-and-kitchen/bedding/` |
-| Cleaning Supplies | 清洁用品 | insect trap, cleaning cloths | `cases/home-and-kitchen/cleaning-supplies/` |
-| Furniture | 家具 | storage shelf, small home chair | `cases/home-and-kitchen/furniture/` |
-| Heating, Cooling & Air Quality | 制热制冷与空气质量 | desk fan, air purifier concept | `cases/home-and-kitchen/heating-cooling-and-air-quality/` |
-| Home Décor | 家居装饰 | picture frame, vase concept | `cases/home-and-kitchen/home-d-cor/` |
-| Kitchen & Dining | 厨房与餐厅 | insulated bottle, kitchen scale | `cases/home-and-kitchen/kitchen-and-dining/` |
-| Storage & Organization | 收纳整理 | velvet hangers pack, storage bins | `cases/home-and-kitchen/storage-and-organization/` |
-| Vacuums & Floor Care | 吸尘与地面护理 | robot vacuum concept, vacuum accessory | `cases/home-and-kitchen/vacuums-and-floor-care/` |
-| Wall Décor | 墙面装饰 | wall frame, decorative wall art | `cases/home-and-kitchen/wall-d-cor/` |
+| Bath | 浴室用品 | bath mat, shower curtain liner | [cases/home-and-kitchen/bath/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/bath/) |
+| Bedding | 床品 | sheet set, pillow cover set | [cases/home-and-kitchen/bedding/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/bedding/) |
+| Cleaning Supplies | 清洁用品 | insect trap, cleaning cloths | [cases/home-and-kitchen/cleaning-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/cleaning-supplies/) |
+| Furniture | 家具 | storage shelf, small home chair | [cases/home-and-kitchen/furniture/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/furniture/) |
+| Heating, Cooling & Air Quality | 制热制冷与空气质量 | desk fan, air purifier concept | [cases/home-and-kitchen/heating-cooling-and-air-quality/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/heating-cooling-and-air-quality/) |
+| Home Décor | 家居装饰 | picture frame, vase concept | [cases/home-and-kitchen/home-d-cor/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/home-d-cor/) |
+| Kitchen & Dining | 厨房与餐厅 | insulated bottle, kitchen scale | [cases/home-and-kitchen/kitchen-and-dining/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/kitchen-and-dining/) |
+| Storage & Organization | 收纳整理 | velvet hangers pack, storage bins | [cases/home-and-kitchen/storage-and-organization/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/storage-and-organization/) |
+| Vacuums & Floor Care | 吸尘与地面护理 | robot vacuum concept, vacuum accessory | [cases/home-and-kitchen/vacuums-and-floor-care/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/vacuums-and-floor-care/) |
+| Wall Décor | 墙面装饰 | wall frame, decorative wall art | [cases/home-and-kitchen/wall-d-cor/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/home-and-kitchen/wall-d-cor/) |
 
 ## Compliance Notes / 合规注意
 

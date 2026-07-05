@@ -45,16 +45,16 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Birthday | 生日 | birthday gift card design, birthday mini envelope | `cases/gift-cards/birthday/` |
-| Christmas | 圣诞节 | holiday gift card design, winter gift card concept | `cases/gift-cards/christmas/` |
-| Father’s Day | 父亲节 | fathers day gift card design, dad appreciation card | `cases/gift-cards/fathers-day/` |
-| For Her | 送给她 | floral gift card design, elegant gift card concept | `cases/gift-cards/for-her/` |
-| For Him | 送给他 | for him gift card design, minimal gift card concept | `cases/gift-cards/for-him/` |
-| Graduation | 毕业 | graduation gift card design, cap-themed envelope | `cases/gift-cards/graduation/` |
-| Kids | 儿童 | kids gift card design, colorful gift sleeve | `cases/gift-cards/kids/` |
-| Mother’s Day | 母亲节 | mothers day gift card design, floral appreciation card | `cases/gift-cards/mothers-day/` |
-| Thank You & Appreciation | 感谢与致谢 | thank you gift card design, gratitude card concept | `cases/gift-cards/thank-you-and-appreciation/` |
-| Wedding & Engagement | 婚礼与订婚 | wedding gift card design, elegant occasion card | `cases/gift-cards/wedding-and-engagement/` |
+| Birthday | 生日 | birthday gift card design, birthday mini envelope | [cases/gift-cards/birthday/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/birthday/) |
+| Christmas | 圣诞节 | holiday gift card design, winter gift card concept | [cases/gift-cards/christmas/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/christmas/) |
+| Father’s Day | 父亲节 | fathers day gift card design, dad appreciation card | [cases/gift-cards/fathers-day/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/fathers-day/) |
+| For Her | 送给她 | floral gift card design, elegant gift card concept | [cases/gift-cards/for-her/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/for-her/) |
+| For Him | 送给他 | for him gift card design, minimal gift card concept | [cases/gift-cards/for-him/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/for-him/) |
+| Graduation | 毕业 | graduation gift card design, cap-themed envelope | [cases/gift-cards/graduation/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/graduation/) |
+| Kids | 儿童 | kids gift card design, colorful gift sleeve | [cases/gift-cards/kids/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/kids/) |
+| Mother’s Day | 母亲节 | mothers day gift card design, floral appreciation card | [cases/gift-cards/mothers-day/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/mothers-day/) |
+| Thank You & Appreciation | 感谢与致谢 | thank you gift card design, gratitude card concept | [cases/gift-cards/thank-you-and-appreciation/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/thank-you-and-appreciation/) |
+| Wedding & Engagement | 婚礼与订婚 | wedding gift card design, elegant occasion card | [cases/gift-cards/wedding-and-engagement/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/gift-cards/wedding-and-engagement/) |
 
 ## Compliance Notes / 合规注意
 

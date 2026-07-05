@@ -42,15 +42,15 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Handmade Baby | 手工婴幼儿用品 | personalized baby gift concept, soft baby keepsake | `cases/handmade-products/handmade-baby/` |
-| Handmade Beauty & Personal Care | 手工美妆个护 | handmade balm tin, artisan soap jar | `cases/handmade-products/handmade-beauty-and-personal-care/` |
-| Handmade Clothing & Accessories | 手工服饰与配件 | crochet accessory concept, custom keychain | `cases/handmade-products/handmade-clothing-and-accessories/` |
-| Handmade Home Décor | 手工家居装饰 | custom wall sign, engraved home piece | `cases/handmade-products/handmade-home-d-cor/` |
-| Handmade Jewelry | 手工珠宝 | name bracelet concept, engraved necklace | `cases/handmade-products/handmade-jewelry/` |
-| Handmade Kitchen & Dining | 手工厨房餐厨 | engraved cutting board, custom mug concept | `cases/handmade-products/handmade-kitchen-and-dining/` |
-| Handmade Pet Supplies | 手工宠物用品 | engraved pet tag, custom collar accessory | `cases/handmade-products/handmade-pet-supplies/` |
-| Handmade Stationery & Party Supplies | 手工文具与派对用品 | birthday card craft concept, custom invitation mockup | `cases/handmade-products/handmade-stationery-and-party-supplies/` |
-| Handmade Toys & Games | 手工玩具与游戏 | crochet toy concept, wood puzzle mockup | `cases/handmade-products/handmade-toys-and-games/` |
+| Handmade Baby | 手工婴幼儿用品 | personalized baby gift concept, soft baby keepsake | [cases/handmade-products/handmade-baby/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/handmade-products/handmade-baby/) |
+| Handmade Beauty & Personal Care | 手工美妆个护 | handmade balm tin, artisan soap jar | [cases/handmade-products/handmade-beauty-and-personal-care/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/handmade-products/handmade-beauty-and-personal-care/) |
+| Handmade Clothing & Accessories | 手工服饰与配件 | crochet accessory concept, custom keychain | [cases/handmade-products/handmade-clothing-and-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/handmade-products/handmade-clothing-and-accessories/) |
+| Handmade Home Décor | 手工家居装饰 | custom wall sign, engraved home piece | [cases/handmade-products/handmade-home-d-cor/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/handmade-products/handmade-home-d-cor/) |
+| Handmade Jewelry | 手工珠宝 | name bracelet concept, engraved necklace | [cases/handmade-products/handmade-jewelry/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/handmade-products/handmade-jewelry/) |
+| Handmade Kitchen & Dining | 手工厨房餐厨 | engraved cutting board, custom mug concept | [cases/handmade-products/handmade-kitchen-and-dining/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/handmade-products/handmade-kitchen-and-dining/) |
+| Handmade Pet Supplies | 手工宠物用品 | engraved pet tag, custom collar accessory | [cases/handmade-products/handmade-pet-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/handmade-products/handmade-pet-supplies/) |
+| Handmade Stationery & Party Supplies | 手工文具与派对用品 | birthday card craft concept, custom invitation mockup | [cases/handmade-products/handmade-stationery-and-party-supplies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/handmade-products/handmade-stationery-and-party-supplies/) |
+| Handmade Toys & Games | 手工玩具与游戏 | crochet toy concept, wood puzzle mockup | [cases/handmade-products/handmade-toys-and-games/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/handmade-products/handmade-toys-and-games/) |
 
 ## Compliance Notes / 合规注意
 

@@ -45,16 +45,16 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Animation | 动画收藏 | character art card set, animation poster print | `cases/entertainment-collectibles/animation/` |
-| Apparel | 服饰收藏 | band tee collectible concept, tour hoodie concept | `cases/entertainment-collectibles/apparel/` |
-| Artwork By Celebrities | 名人艺术作品 | signed art print concept, gallery-style art card | `cases/entertainment-collectibles/artwork-by-celebrities/` |
-| Backstage Passes | 后台通行证 | concert pass concept, event laminate concept | `cases/entertainment-collectibles/backstage-passes/` |
-| Books | 书籍收藏 | collector book cover concept, special edition book concept | `cases/entertainment-collectibles/books/` |
-| Comic Art | 漫画艺术 | comic art print concept, panel artwork poster | `cases/entertainment-collectibles/comic-art/` |
-| Comic Books | 漫画书 | comic issue cover concept, variant cover concept | `cases/entertainment-collectibles/comic-books/` |
-| Figurines | 手办摆件 | collectible figurine concept, mini collectible figure | `cases/entertainment-collectibles/figurines/` |
-| Photographs | 照片收藏 | glossy collectible photo concept, portrait print card | `cases/entertainment-collectibles/photographs/` |
-| Trading Cards | 集换式卡牌 | trading card bundle concept, foil card display | `cases/entertainment-collectibles/trading-cards/` |
+| Animation | 动画收藏 | character art card set, animation poster print | [cases/entertainment-collectibles/animation/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/animation/) |
+| Apparel | 服饰收藏 | band tee collectible concept, tour hoodie concept | [cases/entertainment-collectibles/apparel/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/apparel/) |
+| Artwork By Celebrities | 名人艺术作品 | signed art print concept, gallery-style art card | [cases/entertainment-collectibles/artwork-by-celebrities/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/artwork-by-celebrities/) |
+| Backstage Passes | 后台通行证 | concert pass concept, event laminate concept | [cases/entertainment-collectibles/backstage-passes/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/backstage-passes/) |
+| Books | 书籍收藏 | collector book cover concept, special edition book concept | [cases/entertainment-collectibles/books/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/books/) |
+| Comic Art | 漫画艺术 | comic art print concept, panel artwork poster | [cases/entertainment-collectibles/comic-art/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/comic-art/) |
+| Comic Books | 漫画书 | comic issue cover concept, variant cover concept | [cases/entertainment-collectibles/comic-books/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/comic-books/) |
+| Figurines | 手办摆件 | collectible figurine concept, mini collectible figure | [cases/entertainment-collectibles/figurines/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/figurines/) |
+| Photographs | 照片收藏 | glossy collectible photo concept, portrait print card | [cases/entertainment-collectibles/photographs/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/photographs/) |
+| Trading Cards | 集换式卡牌 | trading card bundle concept, foil card display | [cases/entertainment-collectibles/trading-cards/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/entertainment-collectibles/trading-cards/) |
 
 ## Compliance Notes / 合规注意
 

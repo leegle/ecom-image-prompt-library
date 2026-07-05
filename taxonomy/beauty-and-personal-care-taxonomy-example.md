@@ -30,11 +30,11 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Beauty Tools & Accessories | 美妆工具与配件 | makeup brush set, makeup organizer | `cases/beauty-and-personal-care/beauty-tools-and-accessories/` |
-| Hair Care | 头发护理 | hair brush, hair dryer concept | `cases/beauty-and-personal-care/hair-care/` |
-| Makeup | 彩妆 | makeup palette concept, lip gloss set | `cases/beauty-and-personal-care/makeup/` |
-| Personal Care | 个人护理 | toiletry bag, travel bottle set | `cases/beauty-and-personal-care/personal-care/` |
-| Skin Care | 皮肤护理 | face roller, skin care organizer | `cases/beauty-and-personal-care/skin-care/` |
+| Beauty Tools & Accessories | 美妆工具与配件 | makeup brush set, makeup organizer | [cases/beauty-and-personal-care/beauty-tools-and-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/beauty-and-personal-care/beauty-tools-and-accessories/) |
+| Hair Care | 头发护理 | hair brush, hair dryer concept | [cases/beauty-and-personal-care/hair-care/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/beauty-and-personal-care/hair-care/) |
+| Makeup | 彩妆 | makeup palette concept, lip gloss set | [cases/beauty-and-personal-care/makeup/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/beauty-and-personal-care/makeup/) |
+| Personal Care | 个人护理 | toiletry bag, travel bottle set | [cases/beauty-and-personal-care/personal-care/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/beauty-and-personal-care/personal-care/) |
+| Skin Care | 皮肤护理 | face roller, skin care organizer | [cases/beauty-and-personal-care/skin-care/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/beauty-and-personal-care/skin-care/) |
 
 ## Compliance Notes / 合规注意
 

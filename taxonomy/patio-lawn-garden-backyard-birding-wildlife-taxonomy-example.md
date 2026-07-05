@@ -25,8 +25,8 @@ patio-lawn-and-garden > backyard-birding-and-wildlife
 
 | English | 中文 | Product Types | Folder |
 |---|---|---|---|
-| Bats | 蝙蝠用品 | bat house, bat repellent pouch, bat exclusion device | `cases/patio-lawn-and-garden/backyard-birding-and-wildlife/bats/` |
-| Birds | 鸟类用品 | bird feeder, bird house, bird bath | `cases/patio-lawn-and-garden/backyard-birding-and-wildlife/birds/` |
-| Butterflies | 蝴蝶用品 | butterfly house, butterfly feeder | `cases/patio-lawn-and-garden/backyard-birding-and-wildlife/butterflies/` |
-| Insect Hotels | 昆虫旅馆 | insect hotel, bee house | `cases/patio-lawn-and-garden/backyard-birding-and-wildlife/insect-hotels/` |
-| Squirrels | 松鼠用品 | squirrel feeder, squirrel baffle | `cases/patio-lawn-and-garden/backyard-birding-and-wildlife/squirrels/` |
+| Bats | 蝙蝠用品 | bat house, bat repellent pouch, bat exclusion device | [cases/patio-lawn-and-garden/backyard-birding-and-wildlife/bats/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/backyard-birding-and-wildlife/bats/) |
+| Birds | 鸟类用品 | bird feeder, bird house, bird bath | [cases/patio-lawn-and-garden/backyard-birding-and-wildlife/birds/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/backyard-birding-and-wildlife/birds/) |
+| Butterflies | 蝴蝶用品 | butterfly house, butterfly feeder | [cases/patio-lawn-and-garden/backyard-birding-and-wildlife/butterflies/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/backyard-birding-and-wildlife/butterflies/) |
+| Insect Hotels | 昆虫旅馆 | insect hotel, bee house | [cases/patio-lawn-and-garden/backyard-birding-and-wildlife/insect-hotels/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/backyard-birding-and-wildlife/insect-hotels/) |
+| Squirrels | 松鼠用品 | squirrel feeder, squirrel baffle | [cases/patio-lawn-and-garden/backyard-birding-and-wildlife/squirrels/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/patio-lawn-and-garden/backyard-birding-and-wildlife/squirrels/) |

@@ -27,10 +27,10 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Accessories | 游戏配件 | controller charging dock, gaming headset | `cases/video-games/accessories/` |
-| Games | 游戏软件 | generic game cover concept, game card mockup | `cases/video-games/games/` |
-| Gaming Systems | 游戏系统 | game console stand, portable console case | `cases/video-games/gaming-systems/` |
-| Online Game Services | 在线游戏服务 | subscription card concept, digital code card | `cases/video-games/online-game-services/` |
+| Accessories | 游戏配件 | controller charging dock, gaming headset | [cases/video-games/accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/video-games/accessories/) |
+| Games | 游戏软件 | generic game cover concept, game card mockup | [cases/video-games/games/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/video-games/games/) |
+| Gaming Systems | 游戏系统 | game console stand, portable console case | [cases/video-games/gaming-systems/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/video-games/gaming-systems/) |
+| Online Game Services | 在线游戏服务 | subscription card concept, digital code card | [cases/video-games/online-game-services/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/video-games/online-game-services/) |
 
 ## Compliance Notes / 合规注意
 

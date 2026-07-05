@@ -51,18 +51,18 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Activity & Entertainment | 活动与娱乐 | baby play mat, rattle toy | `cases/baby/activity-and-entertainment/` |
-| Baby Care | 婴儿护理 | baby wipes, baby shampoo | `cases/baby/baby-care/` |
-| Car Seats | 儿童安全座椅 | infant car seat, booster seat | `cases/baby/car-seats/` |
-| Diapering | 尿布与换尿布用品 | baby diapers, baby wipes | `cases/baby/diapering/` |
-| Feeding | 喂养用品 | baby bottle, bottle warmer | `cases/baby/feeding/` |
-| For Moms | 妈妈用品 | nursing pads, breast pump accessory | `cases/baby/for-moms/` |
-| Gifts | 婴儿礼品 | baby gift set, newborn keepsake | `cases/baby/gifts/` |
-| Nursery | 婴儿房用品 | crib sheet, baby monitor | `cases/baby/nursery/` |
-| Potty Training | 如厕训练 | training potty, potty seat | `cases/baby/potty-training/` |
-| Safety | 婴儿安全用品 | cabinet locks, corner protectors | `cases/baby/safety/` |
-| Strollers | 婴儿推车 | lightweight stroller, stroller organizer | `cases/baby/strollers/` |
-| Travel Gear | 婴儿旅行用品 | diaper bag, portable changing pad | `cases/baby/travel-gear/` |
+| Activity & Entertainment | 活动与娱乐 | baby play mat, rattle toy | [cases/baby/activity-and-entertainment/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/activity-and-entertainment/) |
+| Baby Care | 婴儿护理 | baby wipes, baby shampoo | [cases/baby/baby-care/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/baby-care/) |
+| Car Seats | 儿童安全座椅 | infant car seat, booster seat | [cases/baby/car-seats/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/car-seats/) |
+| Diapering | 尿布与换尿布用品 | baby diapers, baby wipes | [cases/baby/diapering/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/diapering/) |
+| Feeding | 喂养用品 | baby bottle, bottle warmer | [cases/baby/feeding/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/feeding/) |
+| For Moms | 妈妈用品 | nursing pads, breast pump accessory | [cases/baby/for-moms/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/for-moms/) |
+| Gifts | 婴儿礼品 | baby gift set, newborn keepsake | [cases/baby/gifts/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/gifts/) |
+| Nursery | 婴儿房用品 | crib sheet, baby monitor | [cases/baby/nursery/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/nursery/) |
+| Potty Training | 如厕训练 | training potty, potty seat | [cases/baby/potty-training/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/potty-training/) |
+| Safety | 婴儿安全用品 | cabinet locks, corner protectors | [cases/baby/safety/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/safety/) |
+| Strollers | 婴儿推车 | lightweight stroller, stroller organizer | [cases/baby/strollers/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/strollers/) |
+| Travel Gear | 婴儿旅行用品 | diaper bag, portable changing pad | [cases/baby/travel-gear/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/baby/travel-gear/) |
 
 ## Compliance Notes / 合规注意
 

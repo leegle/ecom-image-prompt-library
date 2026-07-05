@@ -36,13 +36,13 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Arts & Crafts | 艺术与手工玩具 | kids craft kit, drawing tablet toy | `cases/toys-and-games/arts-and-crafts/` |
-| Building Toys | 积木玩具 | building blocks set, magnetic tiles | `cases/toys-and-games/building-toys/` |
-| Dolls & Accessories | 娃娃与配件 | doll accessory set, plush doll | `cases/toys-and-games/dolls-and-accessories/` |
-| Games | 游戏 | board game, card game | `cases/toys-and-games/games/` |
-| Learning & Education | 学习教育 | learning flash cards, STEM kit | `cases/toys-and-games/learning-and-education/` |
-| Puzzles | 拼图 | jigsaw puzzle, wooden puzzle | `cases/toys-and-games/puzzles/` |
-| Stuffed Animals & Plush Toys | 毛绒玩具 | plush toy, stuffed animal | `cases/toys-and-games/stuffed-animals-and-plush-toys/` |
+| Arts & Crafts | 艺术与手工玩具 | kids craft kit, drawing tablet toy | [cases/toys-and-games/arts-and-crafts/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/toys-and-games/arts-and-crafts/) |
+| Building Toys | 积木玩具 | building blocks set, magnetic tiles | [cases/toys-and-games/building-toys/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/toys-and-games/building-toys/) |
+| Dolls & Accessories | 娃娃与配件 | doll accessory set, plush doll | [cases/toys-and-games/dolls-and-accessories/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/toys-and-games/dolls-and-accessories/) |
+| Games | 游戏 | board game, card game | [cases/toys-and-games/games/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/toys-and-games/games/) |
+| Learning & Education | 学习教育 | learning flash cards, STEM kit | [cases/toys-and-games/learning-and-education/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/toys-and-games/learning-and-education/) |
+| Puzzles | 拼图 | jigsaw puzzle, wooden puzzle | [cases/toys-and-games/puzzles/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/toys-and-games/puzzles/) |
+| Stuffed Animals & Plush Toys | 毛绒玩具 | plush toy, stuffed animal | [cases/toys-and-games/stuffed-animals-and-plush-toys/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/toys-and-games/stuffed-animals-and-plush-toys/) |
 
 ## Compliance Notes / 合规注意
 
