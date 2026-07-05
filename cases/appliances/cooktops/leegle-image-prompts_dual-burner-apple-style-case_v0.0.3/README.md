@@ -166,11 +166,11 @@ Use an Apple-inspired minimalist premium product image style. Create a calm, ref
 
 ## 旧图
 
-![Old Shared 2000W Power](assets/old/01-shared-2000w-power-old.jpg)
+![Old Shared 2000W Power](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/old/01-shared-2000w-power-old.jpg)
 
 ## 新图
 
-![New Shared 2000W Power](assets/new/01-shared-2000w-power-new.png)
+![New Shared 2000W Power](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/new/01-shared-2000w-power-new.png)
 
 ## 旧图主要问题
 
@@ -298,11 +298,11 @@ No complex tables, no parameter overload, no tiny text, no promotional banners, 
 
 ## 旧图
 
-![Old 4-Hour Timer](assets/old/02-four-hour-timer-old.jpg)
+![Old 4-Hour Timer](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/old/02-four-hour-timer-old.jpg)
 
 ## 新图
 
-![New 4-Hour Timer](assets/new/02-four-hour-timer-new.png)
+![New 4-Hour Timer](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/new/02-four-hour-timer-new.png)
 
 ## 旧图主要问题
 
@@ -422,11 +422,11 @@ No full manual instructions, no long paragraphs, no complicated button explanati
 
 ## 旧图
 
-![Old Easy to Clean](assets/old/03-easy-to-clean-old.jpg)
+![Old Easy to Clean](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/old/03-easy-to-clean-old.jpg)
 
 ## 新图
 
-![New Easy to Clean](assets/new/03-easy-to-clean-new.png)
+![New Easy to Clean](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/new/03-easy-to-clean-new.png)
 
 ## 旧图主要问题
 
@@ -554,11 +554,11 @@ No plug-in indicator feature, no multiple cluttered magnifier insets, no large o
 
 ## 旧图
 
-![Old Cookware Compatibility](assets/old/04-cookware-compatibility-old.jpg)
+![Old Cookware Compatibility](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/old/04-cookware-compatibility-old.jpg)
 
 ## 新图
 
-![New Cookware Compatibility](assets/new/04-cookware-compatibility-new.png)
+![New Cookware Compatibility](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/new/04-cookware-compatibility-new.png)
 
 ## 旧图主要问题
 
@@ -699,11 +699,11 @@ No eight-plus thumbnail collage, no orange label bars, no cluttered montage, no 
 
 ## 旧图
 
-![Old Power Levels and Functions](assets/old/05-power-levels-functions-old.jpg)
+![Old Power Levels and Functions](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/old/05-power-levels-functions-old.jpg)
 
 ## 新图
 
-![New Power Levels and Functions](assets/new/05-power-levels-functions-new.png)
+![New Power Levels and Functions](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/new/05-power-levels-functions-new.png)
 
 ## 旧图主要问题
 
@@ -877,11 +877,11 @@ No large orange banner, no heavy black collage borders, no messy food montage, n
 
 ## 旧图
 
-![Old Flexible Installation](assets/old/06-flexible-installation-old.jpg)
+![Old Flexible Installation](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/old/06-flexible-installation-old.jpg)
 
 ## 新图
 
-![New Flexible Installation](assets/new/06-flexible-installation-new.png)
+![New Flexible Installation](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/new/06-flexible-installation-new.png)
 
 ## 旧图主要问题
 
