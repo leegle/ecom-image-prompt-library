@@ -166,11 +166,11 @@ Use an Apple-inspired minimalist premium product image style. Create a calm, ref
 
 ## 旧图
 
-![Old Shared 2000W Power](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/old/01-shared-2000w-power-old.jpg)
+![Old Shared 2000W Power](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/old/01-shared-2000w-power-old.jpg)
 
 ## 新图
 
-![New Shared 2000W Power](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/new/01-shared-2000w-power-new.png)
+![New Shared 2000W Power](https://raw.githubusercontent.com/leegle/ecom-image-prompt-library/main/cases/appliances/cooktops/leegle-image-prompts_dual-burner-apple-style-case_v0.0.3/assets/new/01-shared-2000w-power-new.png)
 
 ## 旧图主要问题
 
