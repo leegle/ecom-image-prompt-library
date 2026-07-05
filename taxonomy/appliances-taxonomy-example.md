@@ -49,17 +49,17 @@ Amazon Best Sellers
 
 | L2 English | L2 中文 | Suggested Product Types | GitHub Folder |
 |---|---|---|---|
-| Appliance Warranties | 家电保修 | service plan concept, warranty card mockup | `cases/appliances/appliance-warranties/` |
-| Cooktops | 炉灶面 | 2 burner electric cooktop, gas cooktop, portable induction cooktop | `cases/appliances/cooktops/` |
-| Dishwashers | 洗碗机 | countertop dishwasher, portable dishwasher | `cases/appliances/dishwashers/` |
-| Freezers | 冷柜/冰柜 | chest freezer, upright freezer | `cases/appliances/freezers/` |
-| Ice Makers | 制冰机 | countertop ice maker, nugget ice maker | `cases/appliances/ice-makers/` |
-| Range Hoods | 抽油烟机/炉灶排烟罩 | under cabinet range hood, wall mount range hood | `cases/appliances/range-hoods/` |
-| Ranges | 炉灶整机 | gas range, electric range | `cases/appliances/ranges/` |
-| Wall Ovens | 嵌入式墙炉 | wall oven, double wall oven | `cases/appliances/wall-ovens/` |
-| Warming Drawers | 保温抽屉 | warming drawer, built-in warming drawer | `cases/appliances/warming-drawers/` |
-| Washers & Dryers | 洗衣机与烘干机 | portable washing machine, compact dryer | `cases/appliances/washers-and-dryers/` |
-| Wine Cellars | 酒柜 | wine cooler, wine cellar refrigerator | `cases/appliances/wine-cellars/` |
+| Appliance Warranties | 家电保修 | service plan concept, warranty card mockup | [cases/appliances/appliance-warranties/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/appliance-warranties/) |
+| Cooktops | 炉灶面 | 2 burner electric cooktop, gas cooktop, portable induction cooktop | [cases/appliances/cooktops/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/cooktops/) |
+| Dishwashers | 洗碗机 | countertop dishwasher, portable dishwasher | [cases/appliances/dishwashers/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/dishwashers/) |
+| Freezers | 冷柜/冰柜 | chest freezer, upright freezer | [cases/appliances/freezers/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/freezers/) |
+| Ice Makers | 制冰机 | countertop ice maker, nugget ice maker | [cases/appliances/ice-makers/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/ice-makers/) |
+| Range Hoods | 抽油烟机/炉灶排烟罩 | under cabinet range hood, wall mount range hood | [cases/appliances/range-hoods/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/range-hoods/) |
+| Ranges | 炉灶整机 | gas range, electric range | [cases/appliances/ranges/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/ranges/) |
+| Wall Ovens | 嵌入式墙炉 | wall oven, double wall oven | [cases/appliances/wall-ovens/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/wall-ovens/) |
+| Warming Drawers | 保温抽屉 | warming drawer, built-in warming drawer | [cases/appliances/warming-drawers/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/warming-drawers/) |
+| Washers & Dryers | 洗衣机与烘干机 | portable washing machine, compact dryer | [cases/appliances/washers-and-dryers/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/washers-and-dryers/) |
+| Wine Cellars | 酒柜 | wine cooler, wine cellar refrigerator | [cases/appliances/wine-cellars/](https://github.com/leegle/ecom-image-prompt-library/tree/main/cases/appliances/wine-cellars/) |
 
 ## Compliance Notes / 合规注意
 
