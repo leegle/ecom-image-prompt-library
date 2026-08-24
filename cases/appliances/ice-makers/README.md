@@ -1,5 +1,9 @@
 # Ice Makers / 制冰机
 
+## Featured Case / 精选案例
+
+- [Apple-inspired Countertop Ice Maker Case v0.0.1](./countertop-ice-maker/README.md)
+
 ## First Product Types / 优先产品类型
 
 - countertop ice maker
