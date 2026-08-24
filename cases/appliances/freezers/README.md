@@ -1,5 +1,9 @@
 # Freezers / 冷柜/冰柜
 
+## Featured Case / 精选案例
+
+- [Apple-inspired 7.0 Cu Ft Chest Freezer Case v0.0.1](./chest-freezer/README.md)
+
 ## First Product Types / 优先产品类型
 
 - chest freezer
